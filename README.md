@@ -157,12 +157,6 @@
 
 ---
 
-## 📂 **Risorse Utili**
-
-- **Dashboard:** [Visita qui](https://github.com/chatunity-bot)
-- **Canale WhatsApp:** [Unisciti qui](https://whatsapp.com/channel/0029VaZVlJZHwXb8naJBQN0J)
-- **Contatto:** [Scrivi qui](https://wa.me/8619858371809)
-- **Collaborazioni:** [Partecipa qui](https://whatsapp.com/channel/0029Vb1C4od5vKA35u1Mqc06)
 
 ---
 
