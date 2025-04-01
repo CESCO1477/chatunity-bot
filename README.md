@@ -167,7 +167,7 @@
 ---
 
 ## 📜 **Licenza**
-© **ChatUnity-Bot**. Tutti i diritti riservati. Consulta la licenza per i dettagli.
+© **silex-Bot**. Tutti i diritti riservati. Consulta la licenza per i dettagli.
 
 ---
 
