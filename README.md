@@ -4,7 +4,8 @@
   <img src="https://i.ibb.co/PvKDcRKW/alyaxroshidere-jpeg.jpg"  style="width: 100%; height: auto; max-width: 400px;">
 </p>
 
-<h1 align="center">© ChatUnity-Bot 3.0🤖</h1>
+<h1 align="center">© silex
+-Bot 1.0🤖</h1>
 <p align="center">
   <strong>Un bot avanzato per WhatsApp, ricco di funzionalità e divertimento!</strong>
 </p>
